@@ -10,8 +10,8 @@ This project is designed to be simple yet powerful — supporting both free and 
 - 🔄 **Subtitle to Speech Conversion**: Convert `.srt` subtitle files into natural-sounding audio.  
 - ⏱️ **Accurate Timestamp Sync**: Speech is automatically aligned with subtitle timing.  
 - 🎬 **Long Video Support**: No duration limit — process extremely long videos by splitting intelligently.  
-- 🆓 **Free Option (gTTS)**: Use Google Text-to-Speech (gTTS) for a free solution.  
-- ☁️ **Cloud Option (Google Cloud TTS)**: Switch to Google Cloud TTS for higher-quality neural voices.  
+- 🆓 **Free Option (gTTS)**: Use your own Google Text-to-Speech (gTTS) for a free solution.  
+- ☁️ **Cloud Option (Google Cloud TTS)**: Use your own Google Cloud TTS account for higher-quality neural voices.  
 - 🗂️ **Batch Processing**: Place multiple `.srt` files in the input folder and process them all at once.  
 - ⚡ **Multi-threading**: Faster processing with configurable threading.  
 
